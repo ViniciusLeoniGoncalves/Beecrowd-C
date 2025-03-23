@@ -11,7 +11,7 @@ Este repositório contém soluções para exercícios do Beecrowd (antigo URI On
 
 ## Sobre
 
-Neste repositório, você encontrará arquivos com soluções para vários exercícios do Beecrowd, resolvidos em linguagem C. Cada exercício está comentado para facilitar o entendimento da lógica e dos algoritmos utilizados.
+Neste repositório, você encontrará arquivos com soluções para alguns exercícios do Beecrowd, resolvidos por mim em linguagem `C99`. A grande maioria dos exercícios estão comentados para facilitar o entendimento da lógica e dos algoritmos utilizados.
 
 ## Estrutura do Projeto
 
@@ -33,7 +33,7 @@ beecrowd-C/
 └── README.md
 ```
 
-- **src/**: Contém os arquivos-fonte (.c) com as soluções.
+- **src/**: Contém os  _source-codes_, (.c) com as soluções.
 - **bin/**: Pasta destinada aos executáveis compilados.
 
 ## Como Compilar
@@ -60,4 +60,3 @@ A seguir, uma breve descrição de alguns exercícios presentes:
 - [**Exercício 1020**](/bcrwd-1020/src/idade.c): Idade em dias.
 - ... adicionarei mais conforme os exercícios disponíveis ...
 
-Cada arquivo contém comentários explicativos para auxiliar no entendimento do código.
