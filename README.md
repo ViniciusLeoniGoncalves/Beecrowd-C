@@ -57,7 +57,7 @@ No Linux ou macOS, o executável poderá ser gerado sem a extensão `.exe` (ex.:
 A seguir, uma breve descrição de alguns exercícios presentes:
 
 - [**Exercício 1739**](/bcrwd-1739/src/threebonacci.c): Sequência de Threebonacci.
-- [**Exercício 1020**](Beecrowd/Beecrowd-C/bcrwd-1020/src/idade.c): Idade em dias.
+- [**Exercício 1020**](/bcrwd-1020/src/idade.c): Idade em dias.
 - ... adicionarei mais conforme os exercícios disponíveis ...
 
 Cada arquivo contém comentários explicativos para auxiliar no entendimento do código.
